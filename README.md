@@ -1,11 +1,24 @@
-# Descripción del proyecto
+### Optimizing Oil Well Locations for OilyGiant
 
-Trabajas en la compañía de extracción de petróleo OilyGiant. Tu tarea es encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.
+Project Description:
 
-Para completar esta tarea, tendrás que realizar los siguientes pasos:
+As an analyst at OilyGiant, your task is to identify the optimal locations for opening 200 new oil wells. This involves analyzing data to maximize the company's benefits.
 
-Leer los archivos con los parámetros recogidos de pozos petrolíferos en la región seleccionada: calidad de crudo y volumen de reservas.
-Crear un modelo para predecir el volumen de reservas en pozos nuevos.
-Elegir los pozos petrolíferos que tienen los valores estimados más altos.
-Elegir la región con el beneficio total más alto para los pozos petrolíferos seleccionados.
-Tienes datos sobre muestras de crudo de tres regiones. Ya se conocen los parámetros de cada pozo petrolero de la región. Crea un modelo que ayude a elegir la región con el mayor margen de beneficio. Analiza los beneficios y riesgos potenciales utilizando la técnica bootstrapping.
+Objectives:
+
+Data Analysis:
+
+Read and analyze data files containing parameters for existing oil wells in the selected region, including crude oil quality and reserve volume.
+Model Development:
+
+Develop a predictive model to estimate reserve volumes for new oil wells.
+Selection of Wells:
+
+Identify the oil wells with the highest estimated reserve volumes.
+Regional Analysis:
+
+Select the region that offers the highest total benefit from the chosen oil wells.
+Risk and Benefit Analysis:
+
+Use bootstrapping techniques to analyze potential benefits and risks.
+The goal is to create a model that helps choose the best region based on profit margins and make data-driven decisions for optimal well placement.
